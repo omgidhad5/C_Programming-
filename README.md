@@ -1,1 +1,1 @@
-# C_Programming-
+# C_Programming-This repository contains various C programming exercises and projects developed to practice and explore core concepts of the C language. It includes basic syntax examples, control structures, functions, data structures (like arrays, linked lists), file handling, and small projects. The code is written with clarity and is ideal for learning, reference, or further development
